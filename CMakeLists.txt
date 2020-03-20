@@ -1,3 +1,4 @@
+#think
 # требуем минимальную версию cmake
 cmake_minimum_required(VERSION 3.9.3)
 
